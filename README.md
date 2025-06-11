@@ -1,6 +1,7 @@
 # DayZLauncher
 Yet another dayz launcher :D
 Unfinished but works
+![image](https://github.com/user-attachments/assets/977c8224-2823-4684-9c6a-0411ef5e0356)
 
 *********** TODO **********
 Fix game launch method so not using steamappid stuff.
